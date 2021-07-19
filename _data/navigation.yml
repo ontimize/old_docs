@@ -12,9 +12,9 @@ main:
 versions:
   - title: "Jdk8"
     url: /docs
-    active: true
   - title: "Jdk11"
     url: /docs/v11
+    active: true
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
