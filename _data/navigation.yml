@@ -1,19 +1,19 @@
 # main links
 main:
   - title: "Ontimize Desktop"
-    url: https://ontimize.github.io/ontimize-core-parent/v11
+    url: https://ontimize.github.io/ontimize-core-parent/v3
   - title: "Ontimize EE"
-    url: https://ontimize.github.io/ontimize-jee/v11
+    url: https://ontimize.github.io/ontimize-jee/v3
   - title: "Ontimize Boot"
-    url: https://ontimize.github.io/ontimize-boot/v11
+    url: https://ontimize.github.io/ontimize-boot/v3
   - title: "Ontimize Web"
-    url: https://ontimizeweb.github.io/docs/v11
+    url: https://ontimizeweb.github.io/docs/v3
   
 versions:
-  - title: "Jdk8"
+  - title: "1.x.x"
     url: /docs
-  - title: "Jdk11"
-    url: /docs/v11
+  - title: "3.x.x"
+    url: /docs/v3
     active: true
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
