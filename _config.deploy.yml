@@ -1,7 +1,7 @@
 # Develop override settings
 
 url                     : https://ontimize.github.io
-baseurl                 : "/docs/v11"
+baseurl                 : "/docs/v3"
 
 analytics:
   provider              : false
