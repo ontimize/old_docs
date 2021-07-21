@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Ontimize Desktop"
-    url: https://ontimize.github.io/ontimize-core-parent/v3
   - title: "Ontimize EE"
     url: https://ontimize.github.io/ontimize-jee/v3
   - title: "Ontimize Boot"
