@@ -6,7 +6,7 @@ main:
     url: https://ontimize.github.io/ontimize-boot
   - title: "Ontimize Web"
     url: https://ontimizeweb.github.io/docs
-  
+
 versions:
   - title: "1.x.x"
     url: /docs/v1
