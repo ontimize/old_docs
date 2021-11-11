@@ -1,17 +1,17 @@
 # main links
 main:
   - title: "Ontimize EE"
-    url: https://ontimize.github.io/ontimize-jee/v3
+    url: https://ontimize.github.io/ontimize-jee
   - title: "Ontimize Boot"
-    url: https://ontimize.github.io/ontimize-boot/v3
+    url: https://ontimize.github.io/ontimize-boot
   - title: "Ontimize Web"
-    url: https://ontimizeweb.github.io/docs/v3
+    url: https://ontimizeweb.github.io/docs
   
 versions:
   - title: "1.x.x"
-    url: /docs
+    url: /docs/v1
   - title: "3.x.x"
-    url: /docs/v3
+    url: /docs
     active: true
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
