@@ -1,20 +1,20 @@
 # main links
 main:
   - title: "Ontimize Desktop"
-    url: https://ontimize.github.io/ontimize-core-parent/
+    url: https://ontimize.github.io/ontimize-core-parent/v1/
   - title: "Ontimize EE"
-    url: https://ontimize.github.io/ontimize-jee/
+    url: https://ontimize.github.io/ontimize-jee/v1/
   - title: "Ontimize Boot"
-    url: https://ontimize.github.io/ontimize-boot/
+    url: https://ontimize.github.io/ontimize-boot/v1/
   - title: "Ontimize Web"
-    url: https://ontimizeweb.github.io/docs/
+    url: https://ontimizeweb.github.io/docs/v1/
   
 versions:
   - title: "1.x.x"
-    url: /docs
+    url: /docs/v1
     active: true
   - title: "3.x.x"
-    url: /docs/v3
+    url: /docs
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
